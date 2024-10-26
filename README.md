@@ -32,11 +32,15 @@
 
 ## Input:
 
+![image](https://github.com/user-attachments/assets/498d9319-339b-414d-9e42-a0dd2c2d014e)
+
 ### Output:
 
+![image](https://github.com/user-attachments/assets/2032f339-7f6a-4be2-904e-5ec673fff6d9)
 
-### Name:
-### Register Number:
+
+### Name:V.Prithviraj
+### Register Number:212222100038
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
